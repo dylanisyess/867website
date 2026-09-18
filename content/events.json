@@ -1,0 +1,69 @@
+{
+  "timezone": "America/Los_Angeles",
+  "location": "Arcadia High School, 180 Campus Drive, Arcadia, CA 91006",
+  "meetings": [
+    {
+      "days": "Monday, Tuesday & Thursday",
+      "time": "2:33–3:30 PM",
+      "note": "Occasionally continues until 6:00 PM."
+    },
+    {
+      "days": "Wednesday",
+      "time": "2:13–3:00 PM",
+      "note": "Occasionally continues until 6:00 PM."
+    },
+    {
+      "days": "Friday",
+      "time": "2:33–3:30 PM",
+      "note": ""
+    },
+    {
+      "days": "Saturday",
+      "time": "9:00 AM–2:00 PM",
+      "note": "Occasional meetings only. Contact the team before attending."
+    }
+  ],
+  "seasonalWindows": [
+    {
+      "name": "Competitions",
+      "window": "March–April",
+      "kind": "Competition",
+      "status": "Exact dates to be announced"
+    },
+    {
+      "name": "Annual team tryouts",
+      "window": "May",
+      "kind": "Tryout",
+      "status": "Exact dates and application details to be announced"
+    }
+  ],
+  "upcoming": [],
+  "past": [
+    {
+      "name": "2026 FRC season",
+      "dateLabel": "January–April 2026",
+      "date": "2026-01",
+      "time": null,
+      "timezone": "America/Los_Angeles",
+      "location": null,
+      "kind": "Competition",
+      "status": "Completed season",
+      "url": "/projects/biocore/",
+      "linkLabel": "Season results"
+    },
+    {
+      "name": "JPL Invention Challenge ? Bucket Brigade finals",
+      "date": "2025-12",
+      "dateLabel": "December 2025",
+      "time": null,
+      "timezone": "America/Los_Angeles",
+      "location": "NASA Jet Propulsion Laboratory",
+      "kind": "Competition",
+      "status": "Completed",
+      "url": "/projects/still-water/",
+      "linkLabel": "Read about Still Water"
+    }
+  ],
+  "source": "User confirmation in this conversation; Wix home for street address and Wix Over the Years for past season",
+  "review": "Regular meeting times and occasional extensions confirmed by user. Room, occasional-session dates, tryout criteria and precise upcoming competition dates are not yet supplied."
+}

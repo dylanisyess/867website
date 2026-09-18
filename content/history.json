@@ -1,0 +1,37 @@
+{
+ "milestones":[
+  {"year":"2000–2001","text":"The Arcadia High School Robotics Engineering team was started by Richard Fretz. Richard was an engineer at JPL who became the teacher of the Advanced Robotics Engineering class."},
+  {"year":"2006","text":"First year competing in the JPL Invention Challenge."},
+  {"year":"2012–2013","text":"Bill Chapman took over the Advanced Robotics class as the teacher and Robert Steele from the Jet Propulsion Laboratory (JPL) became the team’s mentor."},
+  {"year":"2013","text":"August 2013: The new Robotics Design and Production Labs opened as a part of the Arcadia High School Renovations. Located in rooms E-103 and E-104, the classrooms are state of the art engineering labs that allow simultaneous design, construction, programming, and testing of the robots in one location."},
+  {"year":"2013–2014","text":"Sean Lin, a mechanical engineer from Raytheon, became mentor. Raytheon became a team sponsor."},
+  {"year":"2014–2015","text":"The Advanced Robotics Engineering class transitioned to the PLTW Engineering Design and Development class (EDD). This introduced two other engineering courses, being Principles of Engineering and Intro to Engineering that lead up to this team."},
+  {"year":"2023","text":"Bill Chapman retires and David Trent is hired as the new teacher for the EDD class."}
+ ],
+ "frcSeasons":[
+  {"year":"2026","name":"Biocore","record":"6–17–0","slug":"biocore"},
+  {"year":"2025","record":"3–7–0"},{"year":"2024","record":"2–10–0"},{"year":"2023","record":"4–7–0"},{"year":"2022","record":"5–6–0"},
+  {"year":"2021","note":"Did not compete in the FRC match season."},
+  {"year":"2020","record":"2–9–0"},{"year":"2019","record":"3–8–0"},{"year":"2018","record":"2–10–0"},
+  {"year":"2017","name":"Steamed Rice","record":"5–4–0"},{"year":"2016","name":"Centrino","record":"3–5–0"},
+  {"year":"2015","name":"Guillotine","record":"2–6–1"},{"year":"2014","name":"Mouse Trap","record":"5–5–0"},
+  {"year":"2013","name":"Delta Zero","record":"4–7–0"},{"year":"2012","note":"Did not compete."},
+  {"year":"2011","name":"Trinity X","record":"1–7–2"},{"year":"2010","name":"Trinity IX","record":"5–5–0"},
+  {"year":"2009","name":"Trinity VIII","record":"1–6–0"},{"year":"2008","name":"Trinity VII","record":"4–5–0"},
+  {"year":"2007","name":"Trinity VI","record":"3–4–2"},{"year":"2006","name":"Trinity V","record":"6–5–0"},
+  {"year":"2005","name":"Trinity IV","note":"No matches played."},{"year":"2004","name":"Trinity III","record":"2–5–0"},
+  {"year":"2003","name":"Trinity II","record":"2–5–0"},{"year":"2002","name":"Trinity","record":"3–4–0"}
+ ],
+ "awards":[
+  {"year":"2025","text":"FIRST Robotics · Dean’s List: Semifinalist"},
+  {"year":"2021","text":"Qualcomm Innovation Ambassador Team, Greater Los Angeles Region / FIRST Innovation Challenge Semifinalist"},
+  {"year":"2020","text":"5th Place Overall FRC North Los Angeles Regional"},
+  {"year":"2018","text":"JPL Invention Challenge · 2 finalist teams"},
+  {"year":"2016","text":"JPL Invention Challenge · Finalist"},
+  {"year":"2009","text":"JPL Invention Challenge · Most Creative and Smallest awards"},
+  {"year":"2008","text":"April 19: National Champions for Autodesk Visualization Award"},
+  {"year":"2007","text":"JPL Invention Challenge · 1st place regionals and finals"},
+  {"year":"2006","text":"JPL Invention Challenge · Heaviest mechanism award"}
+ ],
+ "source":"Wix Over the Years; packet p. 13 for 2025, 2021 and 2020 awards; JPL project results in projects.json"
+}

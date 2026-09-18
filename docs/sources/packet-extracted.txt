@@ -1,0 +1,540 @@
+
+--- PAGE 1 ---
+absolute value 867                                 2026 - 2027
+8    sponsor
+    ship6     packet
+7                               presented by Absolute Value 867
+
+--- PAGE 2 ---
+ 02.02.02.      03.03.03.      04.04.04.
+                                             meet
+  table                        about                                           Absolute
+    of                         us                                            Value
+ contents
+                                             867
+ 05.05.05.      06.06.06.                   07.07.07.
+electrical             business           operations
+    &                     &                  &
+mechanical               media              captain
+          09.09.09. 08.08.08.               10.10.10.
+                        where
+  rooted                                     our                         your
+    in                                   competitions                        support
+difference                         goes
+          12.12.12.      13.13.13. 11.11.11.
+                                          achievements                          867engineering
+                                              &                          by     &
+                                            triumphs                        numbersinnovations                          ofcontents
+                   16.16.16. 14.14.14.      15.15.15.
+                                          sponsorship  beyond                          our                                             tier    the                       partners                                            benefits   robot
+
+ 17.17.17.
+
+  contact                  table    us
+                                                    2
+
+--- PAGE 3 ---
+Each year begins with smaller
+engineering challenges through the NASA
+JPL Invention Challenge before
+transitioning into the FIRST Robotics
+Competition, where the entire team works
+together to create a full-scale
+competition robot.Our philosophy is very
+simple:     abo
+Learn by doing. Build. Grow annually.
+
+In the coming years, Arcadia High School
+is also preparing to expand its
+engineering facilities, giving programs
+like ours the potential to serve more
+students and take on larger projects.
+However, additional space does not cover
+the cost of operating our team.
+Maintaining our momentum from last
+season, and continuing to compete,        -utusus
+training new members, and building our
+program, is what will allow us to fully      team 867 “absolute value” is a student-led
+use those opportunities in the future.                                              engineering team based at Arcadia High
+                                              School in Southern California.
+As a high-cost student engineering
+program with no school funding, we                                              For more than two decades, our students
+depend heavily on sponsors, grants, and                                              have taken ideas from paper to reality
+in-kind support to keep these                                              through designing, prototyping,
+opportunities accessible.                                              manufacturing, wiring, programming,
+                                              testing, and competing with systems they
+                                              build themselves.
+
+
+                                              Our program is connected to Arcadia High
+                                              School's Engineering Design & Development
+                                              CTE capstone course, giving students the
+                                              opportunity to apply what they learn in
+                                              the classroom to real engineering
+                                              challenges. Members come from different
+                                              backgrounds and interests, from mechanical
+                                              engineering and computer science to
+                                              electronics, CAD, business, art, and
+                                              community outreach, but
+                                              work toward one common goal.
+                                                       3
+
+--- PAGE 4 ---
+meet the
+
+   Absolute
+      Value867
+                 team
+
+Students are responsible for nearly every part of running the
+  organization—from designing and manufacturing the robot to
+ programming, fundraising, sponsor communication, competition
+             preparation, and community outreach.
+
+                                                    4
+
+--- PAGE 5 ---
+Electrical and Controls create the “nervous          2026-2027 lead
+system” of our robot. Members wire motors,
+sensors, motor controllers, cameras,and other electronics while           dylan lin
+programming both driver-
+controlled and
+autonomous
+functions.
+
+pythonpython
+ c++c++
+               +electricalelectrical
+controlcontrol systemssystems
+2026-2027 leads
+                                Mechanical turns designs into physical systems.
+                                         Members gain hands-on experience usingcyrus chow
+                                           professional tools and manufacturing
+                                            techniques to build our drivetrain,
+                                                 mechanisms, frame, and variousiris shi
+                                                       other robot components.
+
+
+
+
+
+                                                      5
+
+--- PAGE 6 ---
+ 2026-2027 lead                     Outreach provides the resources and
+                                         community that truly allow our
+                                            engineering team to thrive. amanda hang
+                                              Members contact sponsors,
+                                               apply for grants, manage
+                                            social media, develop cross-
+                                            team partnerships, run STEM
+                                                outreach, prepare FIRST
+                                          award submissions, and promote
+                                      Team 867 throughout the community.
+                                     There is no robot without Business.
+      businessbusiness
+
+ Our team uses social media to record and share our progress throughout
+  the season, highlight our sponsors’ contributions, and connect with
+other FRC teams to . PR creates weekly progress posts during competition
+   season in order to share our behind the sceneswith our community.
+socialsocial mediamedia examplesexamples
+
+
+
+
+
+ Every competing FRC team must curate an Engineering
+ Notebook that acts as the ultimate “About Us”. Outreach
+ collects the most current information on our team’s competition     6
+
+--- PAGE 7 ---
+   2026-2027 lead             Operations turns strategy into engineering
+                               designs before anything gets manufactured.
+                               Members model our robot using professional  tiger hou                                 CAD software, develop field elements for
+                                     testing, create prototypes, and work
+                                      directly with Mechanical throughout
+                                                       the build process.
+
+
+     operationsoperations
+
+                                    2026-2027
+  Kay Singhal is the Captain of FIRST
+  Robotics Team 867, “Absolute Value,”  leading a major rebuild of the    kay singhal
+  team’s structure, technical goals,
+  and long-term direction. He focuses
+  on creating a stronger, more
+  ambitious program while expanding
+  student training, competition
+  performance, and community impact.
+
+
+            ) overalloverall )teamteam
+captaincaptain                                                        7
+
+--- PAGE 8 ---
+              EDDEDDEDD isisis connectedconnectedconnected
+         tototo ArcadiaArcadiaArcadia HighHighHigh School'sSchool'sSchool's Ca-Ca-Ca-                     50%+50%+50%+50%+ NEWNEWNEWNEW    reerreerreer TechnicalTechnicalTechnical EducationEducationEducation EngineeringEngineeringEngineering
+  pathway.pathway.pathway. EngineeringEngineeringEngineering DesignDesignDesign &&& DevelopmentDevelopmentDevelopment
+ isisis thethethe capstonecapstonecapstone course—thecourse—thecourse—the highest-levelhighest-levelhighest-level cl-cl-cl-                 MEMBERSMEMBERSMEMBERSMEMBERS ANNUALLYANNUALLYANNUALLYANNUALLY
+ assassass ininin thethethe pathwaypathwaypathway wherewherewhere studentsstudentsstudents applyapplyapply sk-sk-sk-
+illsillsills learnedlearnedlearned throughoutthroughoutthroughout previouspreviousprevious engineeringengineeringengineering                                                             WeWeWe typicallytypicallytypically
+coursescoursescourses tototo realrealreal projects.Ourprojects.Ourprojects.Our sponsorssponsorssponsors there-there-there-                                                         returnreturnreturn onlyonlyonly aroundaroundaround 151515
+ foreforefore supportsupportsupport notnotnot onlyonlyonly competitioncompetitioncompetition team,team,team, butbutbut
+                                                     experiencedexperiencedexperienced membersmembersmembers eacheacheach year.year.year.
+  ananan engineeringengineeringengineering educationeducationeducation programprogramprogram connectedconnectedconnected
+                                                   ThatThatThat meansmeansmeans moremoremore thanthanthan halfhalfhalf ofofof TeamTeamTeam   tototo ArcadiaArcadiaArcadia HighHighHigh SchoolSchoolSchool andandand thethethe ArcadiaArcadiaArcadia
+                                                 867867867 beginsbeginsbegins eacheacheach seasonseasonseason withwithwith littlelittlelittle ororor          UnifiedUnifiedUnified SchoolSchoolSchool District.District.District.
+                                                  nonono previouspreviousprevious experienceexperienceexperience ononon thethethe team.team.team.
+CAPSTONECAPSTONECAPSTONECAPSTONE PROGRAMPROGRAMPROGRAMPROGRAM      vantage,vantage,vantage,RatherRatherRather thanthanthanwewewe makemakemakeseeingseeingseeingteachingteachingteachingthisthisthis asasaspartpartpartaaa disad-disad-disad-ofofof ourourour
+                                                culture.culture.culture. NewNewNew studentsstudentsstudents firstfirstfirst gaingaingain exper-exper-exper-
+                                                  ienceienceience throughthroughthrough thethethe JPLJPLJPL seasonseasonseason beforebeforebeforeCTECTECTECTE
+                 OurOurOur teamteamteam bringsbringsbrings                  joiningjoiningjoining thethethe largerlargerlarger FRCFRCFRC build,build,build, creat-creat-creat-
+             togethertogethertogether studentsstudentsstudents withwithwith                inginging aaa cyclecyclecycle wherewherewhere experiencedexperiencedexperienced studstudstud
+         differentdifferentdifferent technicaltechnicaltechnical interests,interests,interests,                   entsentsents teachteachteach thethethe nextnextnext
+      experiences,experiences,experiences, cultures,cultures,cultures, andandand perspect-perspect-perspect-                    generation.generation.generation.
+    ives.ives.ives. StudentsStudentsStudents whowhowho comecomecome fromfromfrom historica-historica-historica-
+    llyllylly underrepresentedunderrepresentedunderrepresented groupsgroupsgroups participateparticipateparticipate
+    throughoutthroughoutthroughout ourourour technicaltechnicaltechnical andandand leadershipleadershipleadership                              TWOTWOTWOTWO     roles,roles,roles, whilewhilewhile membersmembersmembers fromfromfrom aaa varietyvarietyvariety ofofof
+    culturalculturalcultural backgroundsbackgroundsbackgrounds workworkwork togethertogethertogether tow-tow-tow-    ardardard oneoneone engineeringengineeringengineering goal.goal.goal. EachEachEach member’smember’smember’s     COMPETITIONCOMPETITIONCOMPETITIONCOMPETITION
+       distinctdistinctdistinct upbringingupbringingupbringing contributescontributescontributes tototo     theirtheirtheir uniqueuniqueunique qualificationsqualificationsqualifications thatthatthat pro-pro-pro-          SEASONSSEASONSSEASONSSEASONS
+     videvidevide ususus withwithwith somethingsomethingsomething especiallyespeciallyespecially val-val-val-
+                                                     Fall:Fall:Fall: WeWeWe startstartstart thethethe seasonseasonseason
+        uableuableuable ininin engineering:engineering:engineering: differentdifferentdifferent
+                                                withwithwith JPLJPLJPL InventionInventionInvention Challenge.Challenge.Challenge. SmallSmallSmall
+              wayswaysways ofofof solvingsolvingsolving thethethe
+                                                teamsteamsteams learnlearnlearn howhowhow tototo brainstorm,brainstorm,brainstorm, prot-prot-prot-
+                 samesamesame problem.problem.problem.
+                                                   otype,otype,otype, manufacture,manufacture,manufacture, test,fail,test,fail,test,fail,    A                                                            andandand improve.improve.improve.
+
+                                                            Spring:Spring:Spring: FIRSTFIRSTFIRST RoboticsRoboticsRobotics DIVERSEDIVERSEDIVERSEDIVERSE TEAMTEAMTEAMTEAM
+                                                       CompetitionCompetitionCompetition StudentsStudentsStudents bringbringbring thosethosethose
+                                                      skillsskillsskills togethertogethertogether tototo designdesigndesign andandand bu-bu-bu-
+                                                         ildildild aaa muchmuchmuch largerlargerlarger andandand moremoremore           STUDENTSTUDENTSTUDENTSTUDENT
+                                                                complexcomplexcomplex robot.robot.robot.
+        StudentsStudentsStudents dododo thethethe    RUNRUNRUNRUN   engineering,engineering,engineering, runrunrun outreach,outreach,outreach,
+  communicatecommunicatecommunicate withwithwith sponsors,sponsors,sponsors,
+managemanagemanage competitioncompetitioncompetition preparation,preparation,preparation,
+  andandand teachteachteach eacheacheach other.other.other. MentorsMentorsMentors
+   andandand teachersteachersteachers guideguideguide us,us,us, butbutbut   studentsstudentsstudents areareare responsibleresponsibleresponsible  rooted in
+    forforfor turningturningturning ideasideasideas intointointo
+      workingworkingworking inventions.inventions.inventions.                                       8       difference
+
+--- PAGE 9 ---
+supportwhere your
+
+AAA robotrobotrobot takestakestakes moremoremore thanthanthan justjustjust engineering.engineering.engineering. ItItIt startsstartsstarts withwithwith hundredshundredshundreds ofofof individualindividualindividual
+componentscomponentscomponents andandand studentsstudentsstudents willingwillingwilling tototo turnturnturn themthemthem intointointo one.one.one. TeamTeamTeam 867867867
+currentlycurrentlycurrently operatesoperatesoperates withwithwith limitedlimitedlimited funding,funding,funding, whilewhilewhile thethethe costcostcost
+ ofofof competingcompetingcompeting continuescontinuescontinues tototo rise.rise.rise. OurOurOur immediateimmediateimmediate
+priorityprioritypriority isisis ensuringensuringensuring thatthatthat wewewe areareare ableableable
+tototo participateparticipateparticipate ininin bothbothboth ofofof ourourour
+majormajormajor engineeringengineeringengineering        goes
+seasons.seasons.seasons.
+FirstFirstFirstFirst ~~~ $ 7,0007,0007,0007,000
+                           OurOurOur largestlargestlargest singlesinglesingle expense;expense;expense;     examplesexamplesexamplesexamples
+RoboticsRoboticsRoboticsRobotics          registrationregistrationregistration isisis requiredrequiredrequired           motorsmotorsmotors     aluminumaluminumaluminum &&& steelsteelsteel
+                                    beforebeforebefore ourourour studentsstudentsstudents
+                                                                        limelightlimelightlimelight
+                                                                                       robotrobotrobot radioradioradioRegistrationRegistrationRegistrationRegistration        cancancan eveneveneven compete.compete.compete.         visionvisionvision cameracameracamera
+
+
+                                                                              sensors,sensors,sensors, &&& encodersencodersencodersMinimumMinimumMinimumMinimum RobotRobotRobotRobot   EvenEvenEvenrobotrobotrobotaaarequiresrequiresrequiresbasicbasicbasic competitivecompetitivecompetitivethousandsthousandsthousands FRCFRCFRCofofof          motormotormotor  controllers,controllers,controllers,
+
+
+                                                                         chainchainchain &&& gearsgearsgearsBuildBuildBuildBuild ~~~ $ 6,0006,0006,0006,000   dollarsdollarsdollars ininin components.components.components.           bearings,bearings,bearings, belts,belts,belts,
+                               JPLJPLJPLJPL ////////BeforeBeforeBefore FRCFRCFRC eveneveneven begins,begins,begins, threethreethree             ~~~ $ 2,0002,0002,0002,000
+smallersmallersmaller studentstudentstudent teamsteamsteams prototypeprototypeprototype andandand
+manufacturemanufacturemanufacture completelycompletelycompletely separateseparateseparate engineeringengineeringengineering devicesdevicesdevices    WonderworksWonderworksWonderworksWonderworks
+forforfor thethethe JPLJPLJPL challenge.challenge.challenge. FundingFundingFunding willwillwill supportsupportsupport prototypingprototypingprototyping
+materials,materials,materials, motorsmotorsmotors &&& electronics,electronics,electronics, wood/metal,andwood/metal,andwood/metal,and transportation.transportation.transportation.    SeasonSeasonSeasonSeason
+
+Today,Today,Today,       muchmuchmuch ofofof               TeamTeamTeam                    867's867's867's manufacturingmanufacturingmanufacturing                                        isisis                                           performedperformedperformed
+usingusingusing basicbasicbasic            tools:tools:tools:                   Drills,Drills,Drills,                           Saws,Saws,Saws, Bandsaw,Bandsaw,Bandsaw,                                          DrillDrillDrill                                                Press,Press,Press,  BuildingBuildingBuildingBuilding OurOurOurOur
+HandHandHand ToolsToolsTools
+                 ThoseThoseThose toolstoolstools teachteachteach valuablevaluablevaluable skills,skills,skills, butbutbut theytheythey alsoalsoalso                            WorkshopWorkshopWorkshopWorkshop                       limitlimitlimit thethethe complexitycomplexitycomplexity andandand precisionprecisionprecision ofofof whatwhatwhat
+                                        studentsstudentsstudents cancancan manufacture.manufacture.manufacture.
+
+
+
+  OneOneOne ofofof ourourour long-termlong-termlong-term goalsgoalsgoals isisis tototo buildbuildbuild aaa fundfundfund thatthatthat goesgoesgoes towardtowardtoward purchasingpurchasingpurchasing practicalpracticalpractical
+  equipmentequipmentequipment suchsuchsuch asasas aaa CNCCNCCNC machine,machine,machine, allowingallowingallowing studentsstudentsstudents tototo manufacturemanufacturemanufacture moremoremore advancedadvancedadvanced
+  robotrobotrobot componentscomponentscomponents themselvesthemselvesthemselves whilewhilewhile learninglearninglearning industry-relevantindustry-relevantindustry-relevant machiningmachiningmachining skills.skills.skills.
+
+                Therefore,Therefore,Therefore, youryouryour sponsorshipsponsorshipsponsorship helpshelpshelps ususus competecompetecompete todaytodaytoday andandand
+                   buildbuildbuild ourourour engineeringengineeringengineering capabilitiescapabilitiescapabilities forforfor tomorrow.tomorrow.tomorrow.            9
+
+--- PAGE 10 ---
+   titions
+      NASANASANASANASANASANASA JPLJPLJPLJPLJPLJPL InventionInventionInventionInventionInventionInvention
+
+                      EveryEveryEvery fall,fall,fall, TeamTeamTeam 867867867 splitssplitssplits
+                      intointointo threethreethree smallersmallersmaller engineeringengineeringengineering                ChallengeChallengeChallengeChallengeChallengeChallenge                      teamsteamsteams tototo competecompetecompete ininin NASANASANASA JPL'sJPL'sJPL's
+                      annualannualannual InventionInventionInvention Challenge.Challenge.Challenge. StudentsStudentsStudents receivereceivereceive oneoneone unusualunusualunusual engineeringengineeringengineering
+                      problemproblemproblem andandand aaa strictstrictstrict setsetset ofofof constraints.constraints.constraints. TheyTheyThey mustmustmust thenthenthen design,design,design,
+                      prototype,prototype,prototype, manufacture,manufacture,manufacture, andandand repeatedlyrepeatedlyrepeatedly testtesttest aaa devicedevicedevice capablecapablecapable ofofof
+                      completingcompletingcompleting thethethe challenge.challenge.challenge. PastPastPast gamesgamesgames havehavehave challengedchallengedchallenged competitorscompetitorscompetitors tototo
+                      performperformperform taskstaskstasks suchsuchsuch asasas launchlaunchlaunch M&MsM&MsM&Ms accuratelyaccuratelyaccurately acrossacrossacross aaa measuredmeasuredmeasured distancedistancedistance
+                      ororor createcreatecreate uniqueuniqueunique wayswaysways tototo transporttransporttransport waterwaterwater withoutwithoutwithout usingusingusing suction.suction.suction.
+          inininininin ourourourourourour mostmostmostmostmostmost recentrecentrecentrecentrecentrecent seasonseasonseasonseasonseasonseasoncompe
+  2/2/2/32/333  2/32/3  2/3          TeamTeamTeam 867867867 groupsgroupsgroups qualifiedqualifiedqualified forforfor thethethe JPLJPLJPL Finals.Finals.Finals. #1#1#1#1     #1#1     #1
+          TheTheThe JPLJPLJPL seasonseasonseason givesgivesgives                      TeamTeamTeam 867867867 earnedearnedearned 1st1st1st placeplaceplace overalloveralloverall atatat thethethe JPLJPLJPL
+          newnewnew membersmembersmembers theirtheirtheir firstfirstfirst                                Finals,Finals,Finals, competingcompetingcompeting againstagainstagainst teamsteamsteams
+          opportunityopportunityopportunity tototo experienceexperienceexperience thethethe completecompletecomplete                   fromfromfrom acrossacrossacross thethethe UnitedUnitedUnited StatesStatesStates
+          engineeringengineeringengineering designdesigndesign processprocessprocess beforebeforebefore FRCFRCFRC begins.begins.begins.                     andandand internationally.internationally.internationally.
+  FirstFirstFirstFirstFirstFirst RoboticsRoboticsRoboticsRoboticsRoboticsRobotics CompetitionCompetitionCompetitionCompetitionCompetitionCompetition
+
+            InInIn thethethe spring,spring,spring, ourourour entireentireentire teamteamteam comescomescomes togethertogethertogether forforfor thethethe FIRSTFIRSTFIRST RoboticsRoboticsRobotics CompetitionCompetitionCompetition (FRC)(FRC)(FRC)
+
+                      FIRSTFIRSTFIRST releasesreleasesreleases aaa completelycompletelycompletely newnewnew gamegamegame eacheacheach year.year.year. TeamsTeamsTeams mustmustmust designdesigndesign andandand buildbuildbuild
+                      ananan industrial-sizedindustrial-sizedindustrial-sized robotrobotrobot capablecapablecapable ofofof completingcompletingcompleting thethethe game'sgame'sgame's objectivesobjectivesobjectives whilewhilewhile
+                      competingcompetingcompeting alongsidealongsidealongside andandand againstagainstagainst otherotherother robotsrobotsrobots ononon aaa full-sizefull-sizefull-size field.field.field.
+
+                          WithinWithinWithin onlyonlyonly aaa fewfewfew months,months,months, ourourour studentsstudentsstudents must:must:must:
+                          UnderstandUnderstandUnderstand thethethe gamegamegame →→→ DevelopDevelopDevelop strategystrategystrategy →→→ PrototypePrototypePrototype →→→ CADCADCAD →→→ ManufactureManufactureManufacture →→→
+                          WireWireWire →→→ ProgramProgramProgram →→→ TestTestTest →→→ CompeteCompeteCompete
+
+                     FRCFRCFRC combinescombinescombines mechanicalmechanicalmechanical engineering,engineering,engineering, electricalelectricalelectrical systems,systems,systems, programming,programming,programming,
+                     autonomousautonomousautonomous control,control,control, strategy,strategy,strategy, business,business,business, andandand teamworkteamworkteamwork intointointo oneoneone challenge–challenge–challenge–
+                     thethethe culminationculminationculmination ofofof ourourour team’steam’steam’s FallFallFall trainingtrainingtraining setsetset ininin motion!motion!motion!          10our
+
+--- PAGE 11 ---
+engineeringengineering
+
+
+ PrecisionPrecisionPrecision mattersmattersmatters ininin VisionVisionVisionVisionVisionVision BasedBasedBasedBasedBasedBased RobotRobotRobotRobotRobotRobot AlignmentAlignmentAlignmentAlignmentAlignmentAlignment
+ FRC.TeamFRC.TeamFRC.Team 867867867 hashashas usedusedused Limel-ightLimel-ightLimel-ight visionvisionvision camerastogethercamerastogethercamerastogether withwithwith PIDPIDPID controlcontrolcontrol tototo auto-auto-auto-
+ maticallymaticallymatically alignalignalign ourourour robotrobotrobot withwithwith scoringscoringscoring locationslocationslocations ononon thethethe field.field.field. RatherRatherRather thanthanthan dependingdependingdepending
+ completelycompletelycompletely ononon aaa driver'sdriver'sdriver's reactionreactionreaction time,time,time, thethethe robotrobotrobot usesusesuses
+ informationinformationinformation fromfromfrom itsitsits cameracameracamera tototo continuouslycontinuouslycontinuously
+ calculatecalculatecalculate           itsitsits               positionpositionposition errorerrorerror andandand         WHATSWHATSWHATSWHATSWHATSWHATS NEXT?NEXT?NEXT?NEXT?NEXT?NEXT? correctcorrectcorrect itsitsits             movement.movement.movement.
+                                                   OurOurOur ControlsControlsControls teamteamteam wantswantswants tototo continuecontinuecontinue
+                                            expandingexpandingexpanding computercomputercomputer visionvisionvision andandand localization.localization.localization.
+
+                               FutureFutureFuture developmentdevelopmentdevelopment includesincludesincludes experimentingexperimentingexperimenting withwithwith AI-basedAI-basedAI-based
+                           visionvisionvision tototo betterbetterbetter identifyidentifyidentify fieldfieldfield geometrygeometrygeometry andandand corners,corners,corners, impr-impr-impr-
+                                  ovingovingoving thethethe robot'srobot'srobot's understandingunderstandingunderstanding ofofof itsitsits position,position,position, andandand
+                           potentiallypotentiallypotentially strengtheningstrengtheningstrengthening odometryodometryodometry andandand autonomousautonomousautonomous movement.movement.movement.&
+innovations
+ MULTIMULTIMULTIMULTIMULTIMULTI   STAGESTAGESTAGESTAGESTAGESTAGE   ELEVATORELEVATORELEVATORELEVATORELEVATORELEVATOR  SYSTEMSYSTEMSYSTEMSYSTEMSYSTEMSYSTEM
+   OneOneOne ofofof ourourour recentrecentrecent robotsrobotsrobots requiredrequiredrequired thethethe abilityabilityability tototo movemovemove gamegamegame piecespiecespieces verticallyverticallyvertically acrossacrossacross
+                 variousvariousvarious scoringscoringscoring heights.heights.heights. OurOurOur solutionsolutionsolution waswaswas aaa customcustomcustom elevatorelevatorelevator mechanismmechanismmechanism
+                             designed,designed,designed, manufactured,manufactured,manufactured, assembled,assembled,assembled, andandand testedtestedtested bybyby TeamTeamTeam 867867867
+                                        students.students.students. Considerations:Considerations:Considerations: structuralstructuralstructural rigidity,rigidity,rigidity,
+                                                 motormotormotor selection,selection,selection, geargeargear ratios,ratios,ratios, weight,weight,weight,   gamegamegamegamegamegame
+                                                      stability,stability,stability, packaging,packaging,packaging, &&& softwaresoftwaresoftware
+                                                     control.control.control. ProjectsProjectsProjects likelikelike thisthisthis allowallowallow           piecepiecepiecepiecepiecepieceOurOurOur robotsrobotsrobots havehavehave alsoalsoalso                                    membersmembersmembers tototo seeseesee howhowhow mechanical,mechanical,mechanical,
+incorporatedincorporatedincorporated systemssystemssystems suchsuchsuch                                        electrical,electrical,electrical, software,software,software,
+asasas hoppershoppershoppers andandand intakeintakeintake mechanismsmechanismsmechanisms                                     andandand CADCADCAD decisionsdecisionsdecisions               collectioncollectioncollectioncollectioncollectioncollectiondesigneddesigneddesigned tototo quicklyquicklyquickly collect,collect,collect, retain,retain,retain,                                  directlydirectlydirectly supportsupportsupport
+andandand movemovemove gamegamegame piecespiecespieces throughthroughthrough thethethe robot.robot.robot. AAA                                  eacheacheach other.other.other.
+successfulsuccessfulsuccessful mechanismmechanismmechanism rarelyrarelyrarely beginsbeginsbegins withwithwith thethethe finalfinalfinal design.design.design. WeWeWe
+prototype,prototype,prototype, test,test,test, break,break,break, redesignredesignredesign andandand rebuild,rebuild,rebuild, andandand thisthisthis isisis ourourour signaturesignaturesignature process.process.process.  11
+
+--- PAGE 12 ---
+          70%+70%+70%+70%+          70%+70%+22+22+22+22+22+22+                              ofofof  ourourour  teamteamteam  isisis   867
+   yearsyearsyears    ofofof                                  newnewnew eacheacheach yearyearyear
+   teamteamteam 867867867
+    500+500+500+500+    500+500+
+                      studentsstudentsstudents      reachedreachedreached
+                      throughthroughthrough   ourourour   202020202020
+                      codingcodingcoding programsprogramsprograms       bymajormajormajor 2
+competitioncompetitioncompetition
+programsprogramsprograms eacheacheach yearyearyear                                    JPLJPLJPL          3  engineeringengineeringengineering
+                                                      teamsteamsteams
+                                                      eacheacheach fallfallfallnumbers
+            competitons/eventscompetitons/eventscompetitons/events
+            overoverover thethethe lastlastlast twotwotwo
+            yearsyearsyears 6     2,200+2,200+2,200+2,200+        2,200+2,200+
+                                      workshopworkshopworkshop hourshourshours fromfromfrom membersmembersmembers
+                                      pastpastpast 222 FRCFRCFRC seasonsseasonsseasons
+~38~38~38~38~38~38
+                                  typicaltypicaltypical
+  studentsstudentsstudents eacheacheach                       returningreturningreturning membersmembersmembers
+  seasonseasonseason                            eacheacheach yearyearyear    10101010    1010                                                     12
+
+--- PAGE 13 ---
+                                                       NASANASANASA JPLJPLJPL   :recent:recent:recent highlighthighlighthighlight           placeplaceplaceplace    1st1st1st1st           placeplace  InventionInventionInvention ChallengeChallengeChallenge FinalsFinalsFinals 202620262026    1st1st
+
+                      TeamTeamTeam 867867867 earnedearnedearned firstfirstfirst placeplaceplace overalloveralloverall atatat thethethe JPLJPLJPL ChallengeChallengeChallenge FinalsFinalsFinals afterafterafter
+                      competingcompetingcompeting againstagainstagainst teamsteamsteams fromfromfrom acrossacrossacross thethethe UnitedUnitedUnited StatesStatesStates andandand intern-intern-intern-
+                      ationally.ationally.ationally. 222 outoutout ofofof ourourour 333 ofofof TeamTeamTeam 867867867 groupsgroupsgroups qualifiedqualifiedqualified forforfor thethethe Finals.Finals.Finals.
+         FIRSTFIRSTFIRSTFIRSTFIRSTFIRST ROBOTICSROBOTICSROBOTICSROBOTICSROBOTICSROBOTICS
+
+
+                                      Dean'sDean'sDean's List:List:List: SemifinalistSemifinalistSemifinalist      20252025202520252025 :
+
+                                      QualcommQualcommQualcomm InnovationInnovationInnovation AmbassadorAmbassadorAmbassador
+                                      TeamTeamTeam GreaterGreaterGreater LosLosLos AngelesAngelesAngeles RegionRegionRegion      20212021202120212021 : ////// FIRSTFIRSTFIRST InnovationInnovationInnovation ChallengeChallengeChallenge SemifinalistSemifinalistSemifinalist
+
+
+                                      5th5th5th PlacePlacePlace OverallOverallOverall FRCFRCFRC
+                                      NorthNorthNorth LosLosLos AngelesAngelesAngeles RegionalRegionalRegional      20202020202020202020 :achieve
+        NASANASANASANASANASANASA JPLJPLJPLJPLJPLJPL INVENTIONINVENTIONINVENTIONINVENTIONINVENTIONINVENTION CHALLENGECHALLENGECHALLENGECHALLENGECHALLENGECHALLENGE
+
+
+                         “Bucket“Bucket“Bucket BrigadeBrigadeBrigade Contest”Contest”Contest” 1st1st1st Place:Place:Place:  20252025202520252025 :  JPLJPLJPL FinalsFinalsFinals
+
+                         “Paper“Paper“Paper ininin aaa BasketBasketBasket Contest”Contest”Contest”
+                         3rd:3rd:3rd: OrangeOrangeOrange CountyCountyCounty RegionalRegionalRegional ////// 4th4th4th &&&  20232023202320232023 :                         6th:6th:6th: JPLJPLJPL FinalsFinalsFinals
+
+
+                        “Sticky“Sticky“Sticky Wicket”Wicket”Wicket” 8th:8th:8th: JPLJPLJPL FinalsFinalsFinals  20222022202220222022 :
+
+                                “Ping“Ping“Ping PongPongPong BallBallBall Run”Run”Run”      6th:6th:6th: OrangeOrangeOrange CountyCountyCounty RegionalRegionalRegional ////// 3rd:3rd:3rd: JPLJPLJPL FinalsFinalsFinals : 20192019201920192019
+
+
+                    “Keep“Keep“Keep ItItIt Moving”Moving”Moving” 4th:4th:4th: JPLJPLJPL FinalsFinalsFinals                    : 20142014201420142014
+
+                                    “Aerial“Aerial“Aerial CarCarCar Race”Race”Race”                 ments           2nd:2nd:2nd: FullertonFullertonFullerton RegionalRegionalRegional ////// 3rd:3rd:3rd: JPLJPLJPL FinalsFinalsFinals : 20082008200820082008                                                      13
+
+--- PAGE 14 ---
+    engineeringengineeringengineeringengineeringengineeringengineeringengineering shouldshouldshouldshouldshouldshouldshould reachreachreachreachreachreachreach beyondbeyondbeyondbeyondbeyondbeyondbeyond
+    ourourourourourourour workshopworkshopworkshopworkshopworkshopworkshopworkshop TeTeamTeamcompetitioncompetitioncompetitionam 867's867's867's missionmissionmissionrobots.robots.robots.extendsextendsextendsWeWeWe wantwantwantbeyondbeyondbeyondthethethe skillsskillsskillsbuildingbuildingbuildingourourour
+         membersmembersmembers obtainobtainobtain hereherehere tototo reachreachreach youngeryoungeryounger students,students,students, otherotherother teams,teams,teams, andandand commun-commun-commun-
+                          itiesitiesities withwithwith lesslessless exposureexposureexposure tototo engineeringengineeringengineering opportunities.opportunities.opportunities.
+       middle-schoolmiddle-schoolmiddle-schoolmiddle-schoolmiddle-schoolmiddle-schoolmiddle-school mentorshipmentorshipmentorshipmentorshipmentorshipmentorshipmentorship  TeTeamTeamam 867867867 beganbeganbegan mentoringmentoringmentoring
+       SpartanSpartanSpartan CircuitsCircuitsCircuits 62519,62519,62519, helpinghelpinghelping youngeryoungeryounger studentsstudentsstudents gaingaingain theirtheirtheir firstfirstfirst experienceexperienceexperience withwithwith compe-compe-compe-
+       titivetitivetitive robotics.robotics.robotics. WeWeWe alsoalsoalso mentormentormentor 333 FIRSTFIRSTFIRST LegoLegoLego LeagueLeagueLeague teamsteamsteams atatat FirstFirstFirst AvenueAvenueAvenue MiddleMiddleMiddle School,School,School,
+       teachingteachingteaching themthemthem importantimportantimportant software,software,software, electrical,electrical,electrical, andandand mechanicalmechanicalmechanical skills.skills.skills.
+
+    DuringDuringDuring 2020,2020,2020, TeTeamTeamam 867867867 membersmembersmembers des-des-des-    ignedignedigned andandand organizedorganizedorganized thethethe distributiondistributiondistribution 500+500+500+500+500+500+500+ studentsstudentsstudentsstudentsstudentsstudentsstudents reachedreachedreachedreachedreachedreachedreached
+    ofofof freefreefree coursescoursescourses ininin professionalprofessionalprofessional programmingprogrammingprogramming languageslanguageslanguages suchsuchsuch asasas Python,Python,Python, andandand Java,Java,Java, asasas wellwellwell
+    asasas aaa workshopworkshopworkshop ininin WebWebWeb Development.Development.Development. TheTheThe programprogramprogram reachedreachedreached moremoremore thanthanthan 500500500 participants,participants,participants,
+    success-fullysuccess-fullysuccess-fully exposingexposingexposing newnewnew studentsstudentsstudents tototo newnewnew STEMSTEMSTEM opportunities.opportunities.opportunities.
+   internationalinternationalinternationalinternationalinternationalinternationalinternational FIRSTFIRSTFIRSTFIRSTFIRSTFIRSTFIRST outreachoutreachoutreachoutreachoutreachoutreachoutreach
+       ininin 2019,2019,2019, TeTeamTeamam 867867867 helpedhelpedhelped establishestablishestablish oneoneone ofofof thethethe firstfirstfirst communitycommunitycommunity FRCFRCFRC teamsteamsteams ininin Jakarta,Jakarta,Jakarta, Indo-Indo-Indo-
+       nesia,nesia,nesia, includingincludingincluding student-ledstudent-ledstudent-led workshopsworkshopsworkshops andandand knowledgeknowledgeknowledge sharingsharingsharing aboutaboutabout robotics,robotics,robotics, coding,coding,coding, phy-phy-phy-
+       sics,sics,sics, andandand basicbasicbasic engineering.engineering.engineering.
+    TeTeamTeamam membersmembersmembers havehavehave alsoalsoalso prostheticsprostheticsprostheticsprostheticsprostheticsprostheticsprosthetics projectprojectprojectprojectprojectprojectproject ininininininin VietnamVietnamVietnamVietnamVietnamVietnamVietnam
+    workedworkedworked ononon aaa prosthetics-focusedprosthetics-focusedprosthetics-focused engineeringengineeringengineering initiativeinitiativeinitiative intendedintendedintended tototo supportsupportsupport underservedunderservedunderserved
+    communitiescommunitiescommunities ininin MaiMaiMai Chau,Chau,Chau, Vietnam.Vietnam.Vietnam. PartneringPartneringPartnering withwithwith thethethe VietnameseVietnameseVietnamese CultureCultureCulture Club,Club,Club, ArcadiaArcadiaArcadia App-App-App-
+    liedliedlied EngineeringEngineeringEngineering Team,Team,Team, andandand VEXVEXVEX RoboticsRoboticsRobotics 873787378737 Teams,Teams,Teams, thisthisthis multi-dimensionalmulti-dimensionalmulti-dimensional engineeringengineeringengineering teamteamteam
+    projectprojectproject isisis planningplanningplanning tototo startstartstart aaa yearlyyearlyyearly initiativeinitiativeinitiative atatat Arcadia,Arcadia,Arcadia, helpinghelpinghelping outoutout thethethe communitycommunitycommunity ininin
+    ruralruralrural Vietnam.Vietnam.Vietnam. WeWeWe intendintendintend tototo design,design,design, prototype,prototype,prototype, refine,refine,refine, andandand manufacturemanufacturemanufacture allallall prostheticprostheticprosthetic
+    components,components,components, thenthenthen shipshipship themthemthem tototo overlookedoverlookedoverlooked membersmembersmembers ofofof thethethe communitycommunitycommunity ininin Vietnam.Vietnam.Vietnam.
+
+
+                                    ThisThisThis yeyear,year,ar, TeamTeamTeam 867867867 plansplansplans tototo substantiallysubstantiallysubstantially   whatswhatswhatswhatswhatswhatswhats next?next?next?next?next?next?next?  increaseincreaseincrease outreachoutreachoutreach through:through:through:
+                                                                             robotrobotrobot demonstrationsdemonstrationsdemonstrations
+       engineeringengineeringengineering workshopsworkshopsworkshops atatat         middle-schoolmiddle-schoolmiddle-school STEMSTEMSTEM activitiesactivitiesactivities
+       nearbynearbynearby schoolsschoolsschools
+                            collaborationscollaborationscollaborations withwithwith                     moremoremore consistentconsistentconsistent educationaleducationaleducational
+                            otherotherother FIRSTFIRSTFIRST teamsteamsteams                       contentcontentcontent ononon socialsocialsocial mediamediamedia
+
+
+                                                          OurOurOur goalgoalgoal isisis notnotnot onlyonlyonly tototo buildbuildbuild
+                                                          engineersengineersengineers withinwithinwithin TeamTeamTeam 867,867,867,
+                                                          butbutbut alsoalsoalso bey-bey-bey-
+                                                          ondondond it.it.it.beyond
+
+
+
+
+                                                     14  therobot
+
+--- PAGE 15 ---
+ our ourourourour partners
+ENGINEERINGENGINEERINGENGINEERINGENGINEERINGENGINEERINGENGINEERING TAKESTAKESTAKESTAKESTAKESTAKES COMMUNITYCOMMUNITYCOMMUNITYCOMMUNITYCOMMUNITYCOMMUNITY
+TeamTeamTeam 867867867 hashashas beenbeenbeen fortunatefortunatefortunate tototo receivereceivereceive supportsupportsupport fromfromfrom businesses,businesses,businesses,
+professionals,professionals,professionals, families,families,families, engineeringengineeringengineering organizations,organizations,organizations, andandand communitycommunitycommunity partners.partners.partners.
+PreviousPreviousPrevious supporterssupporterssupporters havehavehave includedincludedincluded organizationsorganizationsorganizations suchsuchsuch asasas                              :
+     AutolineAutolineAutolineAutoline                          AutolineAutolineAutolineAutoline ProProProPro         CCSJCCSJCCSJCCSJ DevelopmentDevelopmentDevelopmentDevelopment
+   JohnsonJohnsonJohnsonJohnson HardwoodHardwoodHardwoodHardwood
+                         RoyalRoyalRoyalRoyal BusinessBusinessBusinessBusiness BankBankBankBank     NASA/JPLNASA/JPLNASA/JPLNASA/JPL
+    SplendidSplendidSplendidSplendid SmilesSmilesSmilesSmiles
+                         AsaAsaAsaAsa YogaYogaYogaYoga PilatesPilatesPilatesPilates    FamilyFamilyFamilyFamily DentistryDentistryDentistryDentistry                            SNKSNKSNKSNK AccountancyAccountancyAccountancyAccountancy
+                                                CorporationCorporationCorporationCorporation
+   JDSJDSJDSJDS TechnologiesTechnologiesTechnologiesTechnologies                          FractalFractalFractalFractal PasadenaPasadenaPasadenaPasadena
+                                                  CFCFCFCF KentKentKentKent
+WEWEWEWEWEWE WELCOMEWELCOMEWELCOMEWELCOMEWELCOMEWELCOME MOREMOREMOREMOREMOREMORE THANTHANTHANTHANTHANTHAN
+
+      CompaniesCompaniesCompanies cancancan            FINANCIALFINANCIALFINANCIALFINANCIALFINANCIALFINANCIAL SUPPORTSUPPORTSUPPORTSUPPORTSUPPORTSUPPORT      contributecontributecontribute throughthroughthrough :
+
+       FinancialFinancialFinancialFinancialFinancialFinancial SponsorshipsSponsorshipsSponsorshipsSponsorshipsSponsorshipsSponsorships      ManufacturingManufacturingManufacturingManufacturingManufacturingManufacturing SupportSupportSupportSupportSupportSupport
+
+                                      New,New,New,New,New,New, used,used,used,used,used,used, surplus,surplus,surplus,surplus,surplus,surplus, orororororor   ReferralsReferralsReferralsReferralsReferralsReferrals totototototo otherotherotherotherotherother companiescompaniescompaniescompaniescompaniescompanies
+                                      retiredretiredretiredretiredretiredretired equipmentequipmentequipmentequipmentequipmentequipment   whowhowhowhowhowho areareareareareare interestedinterestedinterestedinterestedinterestedinterested inininininin
+
+   supportingsupportingsupportingsupportingsupportingsupporting                     RawRawRawRawRawRaw MaterialsMaterialsMaterialsMaterialsMaterialsMaterials       EngineeringEngineeringEngineeringEngineeringEngineeringEngineering MentorshipMentorshipMentorshipMentorshipMentorshipMentorship
+
+     ToolsToolsToolsToolsToolsTools &&&&&& EquipmentEquipmentEquipmentEquipmentEquipmentEquipment                             Tours/ExposureTours/ExposureTours/ExposureTours/ExposureTours/ExposureTours/Exposure totototototo engineeringengineeringengineeringengineeringengineeringengineering
+
+    CNCCNCCNCCNCCNCCNC machining,machining,machining,machining,machining,machining, laserlaserlaserlaserlaserlaser cutting,cutting,cutting,cutting,cutting,cutting, welding,welding,welding,welding,welding,welding, waterjet,waterjet,waterjet,waterjet,waterjet,waterjet, sheet-sheet-sheet-sheet-sheet-sheet-
+    metalmetalmetalmetalmetalmetal fabrication.fabrication.fabrication.fabrication.fabrication.fabrication.                                                    15
+
+--- PAGE 16 ---
+sponsor
+
+                                                                      Feature on Team
+                                                                        867’s website             WOODWOODWOODWOODWOODWOOD          1.
+
+                                            Story shoutout on Team                                                                       Listed in Engineering
+                                            867’s Instagram                                                                       Notebookship
+                                             Included in monthly            Recognized during
+                                             sponsor appreciation reel     community & school
+                                                                               outreach posts   BRICKBRICKBRICKBRICKBRICKBRICK2.
+IncludesIncludesIncludes allallall WoodWoodWood benefitsbenefitsbenefits plus:plus:plus:
+  Logo placed on Team 867’s                                                                             IncludesIncludesIncludes allallall
+  robot(s)                  Dedicated “Thank                                                BrickBrickBrick bene-bene-bene-
+                    You” Instagram                STEELSTEELSTEELSTEELSTEELSTEEL     fitsfitsfits plus:plus:plus:             3.
+                              post
+      Digital copy of our                                                             Sponsor name listed in the bio
+     Engineering Notebook                                                          on all team social media pages
+                                                          (until next school year)
+         Sponsor mention in our
+   middle-school outreach events                        Sponsor spotlight in expanded net-
+                                                          working events with local schools and
+                                                          organizations
+                                                                              Small logo on Team
+                                                            Detailed feature      Banner at all
+                                                           on Team 867’s website    competitions CARBONCARBONCARBONCARBONCARBONCARBON FIBERFIBERFIBERFIBERFIBERFIBER
+
+        IncludesIncludesIncludes allallall SteelSteelSteel benefitsbenefitsbenefits plus:plus:plus:
+            Feature in Team 867’s end-of-                 wantwantwantwantwantwant somethingsomethingsomethingsomethingsomethingsomething            season video 4.                 Featured sponsor
+                                     differentdifferentdifferentdifferentdifferentdifferent fromfromfromfromfromfrom us?us?us?us?us?us?           in our bi-weekly Ins-tagram reels   5.      Logo
+   placement on all Team 867 merchandise             TheTheThe tierstierstiers aboveaboveabove areareare onlyonlyonly aaa startingstartingstarting point.point.point.
+      Large logo advertisement on Team Banner        We are happy to create customized
+           displayed at all team competitions        partnerships involving in-kind materials,
+     Shout-outs on all Team 867's social media        manufacturing, equipment, engineering
+     accounts and posts (until the beginning          mentorship, facility tours, workshops,
+     of the next school year)                         larger corporate sponsorships.
+                                Acknowledgment                                                      Let us know and we'll build our partner-
+  during all school outreach visits, community                                                      ship around what makes sense for your
+    workshops, and middle-school STEM sessions      organization.
+
+
+
+                                                     16tier benefits
+
+--- PAGE 17 ---
+          Absolute Value
+           867
+contact
+
+
+
+
+
+            one team,
+         all niches.     ususususus     usususususus
+     Engineering Design & Development
+     Arcadia High School Arcadia, California
+
+
+             Email: arcadiaedd.team867@gmail.com
+
+
+             Instagram: @ahs.frc867
+
+
+
+             Website: https://arcadiateam867.weebly.com/
+
+
+
+                                     Thank you for supporting
+
+                                      the next generation of engineers.
+
+                                                    17

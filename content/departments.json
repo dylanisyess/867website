@@ -1,0 +1,6 @@
+[
+  {"name":"Electrical & Control Systems","text":"Electrical and Controls create the “nervous system” of our robot. Members wire motors, sensors, motor controllers, cameras, and other electronics while programming both driver-controlled and autonomous functions.","source":"Packet p. 5"},
+  {"name":"Mechanical","text":"Mechanical turns designs into physical systems. Members gain hands-on experience using professional tools and manufacturing techniques to build our drivetrain, mechanisms, frame, and various other robot components.","source":"Packet p. 5"},
+  {"name":"Business & Outreach","text":"Outreach provides the resources and community that truly allow our engineering team to thrive. Members contact sponsors, apply for grants, manage social media, develop cross-team partnerships, run STEM outreach, prepare FIRST award submissions, and promote Team 867 throughout the community. There is no robot without Business.","source":"Packet p. 6"},
+  {"name":"Operations","text":"Operations turns strategy into engineering designs before anything gets manufactured. Members model our robot using professional CAD software, develop field elements for testing, create prototypes, and work directly with Mechanical throughout the build process.","source":"Packet p. 7"}
+]

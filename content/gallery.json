@@ -1,0 +1,11 @@
+[
+ {"image":"workshop","alt":"Students using a drill and working together at a workshop table.","caption":"Hands-on work in the team workshop.","category":"Workshop","year":null,"source":"Packet p. 3"},
+ {"image":"mechanical-workshop","alt":"Team members gathered around tools and materials on a workshop table.","caption":"Mechanical work and collaboration.","category":"Workshop","year":null,"source":"Packet p. 5"},
+ {"image":"controls-workshop","alt":"Students working at a laptop beside a robot and electronic components.","caption":"Electrical and controls work.","category":"Workshop","year":null,"source":"Packet p. 5"},
+ {"image":"team-collaboration","alt":"Team members discussing their work around a computer.","caption":"Sharing ideas and working together.","category":"Workshop","year":null,"source":"Packet p. 6"},
+ {"image":"robot-assembly","alt":"Students working together to assemble a robot mechanism.","caption":"Robot assembly in progress.","category":"Workshop","year":null,"source":"Packet p. 6"},
+ {"image":"hands-on","alt":"Two students assembling a small device at a workbench.","caption":"Building and testing a device.","category":"Workshop","year":null,"source":"Packet p. 6"},
+ {"image":"cad-work","alt":"A team member working on a design at a laptop.","caption":"Turning ideas into engineering designs.","category":"Workshop","year":null,"source":"Packet p. 7"},
+ {"image":"team-photo","alt":"A group photograph of Absolute Value 867 team members.","caption":"Absolute Value 867 team photograph.","category":"Team","year":null,"source":"Packet p. 17; photograph date not specified"},
+ {"image":"frc-render","alt":"A CAD rendering of the 2026 FRC robot design.","caption":"2026 FRC robot design rendering.","category":"Projects","year":"2026","source":"Wix Home, image filename FRC 2026 v1.png"}
+]

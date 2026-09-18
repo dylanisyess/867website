@@ -1,0 +1,23 @@
+{
+ "intro":"A robot takes more than just engineering. It starts with hundreds of individual components and students willing to turn them into one. Team 867 currently operates with limited funding, while the cost of competing continues to rise. Our immediate priority is ensuring that we are able to participate in both of our major engineering seasons.",
+ "costs":[
+  {"name":"FIRST Robotics registration","amount":"~ $7,000","text":"Our largest single expense; registration is required before our students can even compete."},
+  {"name":"Minimum robot build","amount":"~ $6,000","text":"Even a basic competitive FRC robot requires thousands of dollars in components."},
+  {"name":"JPL / Wonderworks season","amount":"~ $2,000","text":"Before FRC even begins, three smaller student teams prototype and manufacture completely separate engineering devices for the JPL challenge. Funding will support prototyping materials, motors & electronics, wood/metal, and transportation."}
+ ],
+ "components":["Motors","Aluminum & steel","Limelight vision camera","Robot radio","Motor controllers, sensors & encoders","Bearings, belts, chain & gears"],
+ "workshop":["Today, much of Team 867’s manufacturing is performed using basic tools: Drills, Saws, Bandsaw, Drill Press, Hand Tools.","Those tools teach valuable skills, but they also limit the complexity and precision of what students can manufacture.","One of our long-term goals is to build a fund that goes toward purchasing practical equipment such as a CNC machine, allowing students to manufacture more advanced robot components themselves while learning industry-relevant machining skills.","Therefore, your sponsorship helps us compete today and build our engineering capabilities for tomorrow."],
+ "tiers":[
+  {"name":"Wood","inherits":null,"benefits":["Feature on Team 867’s website","Story shoutout on Team 867’s Instagram","Listed in Engineering Notebook","Included in monthly sponsor appreciation reel","Recognized during community & school outreach posts"]},
+  {"name":"Brick","inherits":"Wood","benefits":["Logo placed on Team 867’s robot(s)","Dedicated “Thank You” Instagram post","Digital copy of our Engineering Notebook","Sponsor mention in our middle-school outreach events"]},
+  {"name":"Steel","inherits":"Brick","benefits":["Sponsor name listed in the bio on all team social media pages (until next school year)","Sponsor spotlight in expanded networking events with local schools and organizations","Detailed feature on Team 867’s website","Small logo on Team Banner at all competitions"]},
+  {"name":"Carbon Fiber","inherits":"Steel","benefits":["Feature in Team 867’s end-of-season video","Featured sponsor in our bi-weekly Instagram reels","Logo placement on all Team 867 merchandise","Large logo advertisement on Team Banner displayed at all team competitions","Shout-outs on all Team 867’s social media accounts and posts (until the beginning of the next school year)","Acknowledgment during all school outreach visits, community workshops, and middle-school STEM sessions"]}
+ ],
+ "custom":["The tiers above are only a starting point.","We are happy to create customized partnerships involving in-kind materials, manufacturing, equipment, engineering mentorship, facility tours, workshops, larger corporate sponsorships.","Let us know and we’ll build our partnership around what makes sense for your organization."],
+ "inKind":["Financial sponsorships","Manufacturing support","New, used, surplus, or retired equipment","Referrals to other companies who are interested in supporting","Raw materials","Engineering mentorship","Tools & equipment","Tours / exposure to engineering","CNC machining, laser cutting, welding, waterjet, sheet-metal fabrication"],
+ "thanks":"Team 867 has been fortunate to receive support from businesses, professionals, families, engineering organizations, and community partners.",
+ "current":[],
+ "previous":["Autoline","Autoline Pro","CCSJ Development","Johnson Hardwood","Royal Business Bank","NASA/JPL","Splendid Smiles Family Dentistry","Asa Yoga Pilates","SNK Accountancy Corporation","JDS Technologies","Fractal Pasadena","CF Kent"],
+ "packet":"/downloads/absolute-value-867-sponsorship.pdf",
+ "source":"Packet pp. 9, 15–16; previous supporter status explicitly stated on p. 15"
+}

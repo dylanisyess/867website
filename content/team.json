@@ -1,0 +1,36 @@
+{
+  "name": "Absolute Value 867",
+  "school": "Arcadia High School",
+  "location": "Arcadia, California",
+  "season": "2026–2027",
+  "email": "arcadiaedd.team867@gmail.com",
+  "instagram": "https://www.instagram.com/ahs.frc867/",
+  "philosophy": "Learn by doing. Build. Grow annually.",
+  "intro": "Team 867 “Absolute Value” is a student-led engineering team based at Arcadia High School in Southern California.",
+  "about": [
+    "For more than two decades, our students have taken ideas from paper to reality through designing, prototyping, manufacturing, wiring, programming, testing, and competing with systems they build themselves.",
+    "Our program is connected to Arcadia High School’s Engineering Design & Development CTE capstone course, giving students the opportunity to apply what they learn in the classroom to real engineering challenges. Members come from different backgrounds and interests, from mechanical engineering and computer science to electronics, CAD, business, art, and community outreach, but work toward one common goal.",
+    "Each year begins with smaller engineering challenges through the NASA JPL Invention Challenge before transitioning into the FIRST Robotics Competition, where the entire team works together to create a full-scale competition robot. Our philosophy is very simple:"
+  ],
+  "responsibilities": "Students are responsible for nearly every part of running the organization—from designing and manufacturing the robot to programming, fundraising, sponsor communication, competition preparation, and community outreach.",
+  "capstone": "EDD is connected to Arcadia High School’s Career Technical Education Engineering pathway. Engineering Design & Development is the capstone course—the highest-level class in the pathway where students apply skills learned throughout previous engineering courses to real projects. Our sponsors therefore support not only a competition team, but an engineering education program connected to Arcadia High School and the Arcadia Unified School District.",
+  "diversity": "Our team brings together students with different technical interests, experiences, cultures, and perspectives. Students who come from historically underrepresented groups participate throughout our technical and leadership roles, while members from a variety of cultural backgrounds work together toward one engineering goal. Each member’s distinct upbringing contributes to their unique qualifications that provide us with something especially valuable in engineering: different ways of solving the same problem.",
+  "learning": "We typically return only around 10 experienced members each year. That means more than half of Team 867 begins each season with little or no previous experience on the team. Rather than seeing this as a disadvantage, we make teaching part of our culture. New students first gain experience through the JPL season before joining the larger FRC build, creating a cycle where experienced students teach the next generation.",
+  "studentRun": "Students do the engineering, run outreach, communicate with sponsors, manage competition preparation, and teach each other. Mentors and teachers guide us, but students are responsible for turning ideas into working inventions.",
+  "future": [
+    "In the coming years, Arcadia High School is also preparing to expand its engineering facilities, giving programs like ours the potential to serve more students and take on larger projects. However, additional space does not cover the cost of operating our team.",
+    "Maintaining our momentum from last season, and continuing to compete, training new members, and building our program, is what will allow us to fully use those opportunities in the future."
+  ],
+  "funding": "As a high-cost student engineering program with no school funding, we depend heavily on sponsors, grants, and in-kind support to keep these opportunities accessible.",
+  "frc": [
+    "In the spring, our entire team comes together for the FIRST Robotics Competition (FRC).",
+    "FIRST releases a completely new game each year. Teams must design and build an industrial-sized robot capable of completing the game’s objectives while competing alongside and against other robots on a full-size field.",
+    "Within only a few months, our students must: Understand the game → Develop strategy → Prototype → CAD → Manufacture → Wire → Program → Test → Compete",
+    "FRC combines mechanical engineering, electrical systems, programming, autonomous control, strategy, business, and teamwork into one challenge—the culmination of our team’s Fall training set in motion!"
+  ],
+  "jpl": [
+    "Every fall, Team 867 splits into three smaller engineering teams to compete in NASA JPL’s annual Invention Challenge. Students receive one unusual engineering problem and a strict set of constraints. They must then design, prototype, manufacture, and repeatedly test a device capable of completing the challenge. Past games have challenged competitors to perform tasks such as launch M&Ms accurately across a measured distance or create unique ways to transport water without using suction.",
+    "The JPL season gives new members their first opportunity to experience the complete engineering design process before FRC begins."
+  ],
+  "sources": ["Packet pp. 3–4, 8, 10", "User correction: 10 returning members"]
+}

@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "biocore",
+    "name": "Biocore",
+    "year": "2026",
+    "category": "FRC",
+    "status": "Completed season",
+    "summary": "Our 2026 FRC robot, with Limelight alignment as a key accomplishment.",
+    "challenge": [
+      "In 2026, the goal was to score as many yellow balls called “fuel” into a target as possible."
+    ],
+    "approach": [
+      "Our main accomplishment this year was Limelight alignment."
+    ],
+    "results": [
+      "Overall WLT: 6–17–0",
+      "Los Angeles Event: 40th place, 2–9–0",
+      "San Gabriel Valley Event: 25th place, 4–8–0"
+    ],
+    "image": "frc-render",
+    "alt": "CAD rendering of the team’s 2026 FRC robot design.",
+    "caption": "2026 FRC design rendering from the team’s existing website.",
+    "related": [
+      "vision-alignment"
+    ],
+    "source": "Wix Over the Years, January–April 2026; rendering from Wix Home, filename FRC 2026 v1.png",
+    "featured": true
+  },
+  {
+    "slug": "vision-alignment",
+    "name": "Vision-based robot alignment",
+    "year": null,
+    "category": "FRC",
+    "status": "Documented engineering work",
+    "summary": "Limelight vision cameras and PID control help the robot align with scoring locations.",
+    "challenge": [
+      "Precision matters in FRC."
+    ],
+    "approach": [
+      "Team 867 has used Limelight vision cameras together with PID control to automatically align our robot with scoring locations on the field. Rather than depending completely on a driver’s reaction time, the robot uses information from its camera to continuously calculate its position error and correct its movement."
+    ],
+    "future": [
+      "Our Controls team wants to continue expanding computer vision and localization.",
+      "Future development includes experimenting with AI-based vision to better identify field geometry and corners, improving the robot’s understanding of its position, and potentially strengthening odometry and autonomous movement."
+    ],
+    "source": "Packet p. 11; project year not given"
+  },
+  {
+    "slug": "elevator",
+    "name": "Multi-stage elevator system",
+    "year": null,
+    "category": "FRC",
+    "status": "Documented engineering work",
+    "summary": "A custom mechanism moves game pieces vertically across scoring heights.",
+    "challenge": [
+      "One of our recent robots required the ability to move game pieces vertically across various scoring heights."
+    ],
+    "approach": [
+      "Our solution was a custom elevator mechanism designed, manufactured, assembled, and tested by Team 867 students. Considerations: structural rigidity, motor selection, gear ratios, weight, stability, packaging, & software control.",
+      "Projects like this allow members to see how mechanical, electrical, software, and CAD decisions directly support each other."
+    ],
+    "source": "Packet p. 11; robot name and year not supplied"
+  },
+  {
+    "slug": "game-piece-collection",
+    "name": "Game piece collection",
+    "year": null,
+    "category": "FRC",
+    "status": "Documented engineering work",
+    "summary": "Hoppers and intake mechanisms collect, retain, and move game pieces.",
+    "approach": [
+      "Our robots have also incorporated systems such as hoppers and intake mechanisms designed to quickly collect, retain, and move game pieces through the robot. A successful mechanism rarely begins with the final design. We prototype, test, break, redesign and rebuild, and this is our signature process."
+    ],
+    "source": "Packet p. 11; robot name and year not supplied"
+  },
+  {
+    "slug": "still-water",
+    "name": "Still Water · Bucket Brigade",
+    "year": "2025",
+    "category": "JPL",
+    "status": "Completed project · December 2025",
+    "summary": "An Archimedes screw moves water in the Bucket Brigade challenge.",
+    "challenge": [
+      "This year, the JPL Invention Challenge was to move 8 liters of water from a reservoir into a bucket 16 feet away as fast as possible while satisfying many rules, such as no pumps allowed or no more than 2 liters of water can be travelling upwards at a single time."
+    ],
+    "approach": [
+      "Its design featured an Archimedes screw."
+    ],
+    "results": [
+      "At JPL, Still Water was able to achieve 1st place, moving the 8 liters in just 6.45 seconds.",
+      "2 out of our 3 Team 867 groups qualified for the Finals."
+    ],
+    "source": "Wix Over the Years, October–December 2025; packet pp. 10, 13. User confirmed December 2025 in this conversation."
+  },
+  {
+    "slug": "paper-in-a-basket",
+    "name": "Paper in a Basket",
+    "year": "2023",
+    "category": "JPL",
+    "status": "Completed competition",
+    "summary": "Two finals placements and a regional result from the JPL Invention Challenge.",
+    "results": [
+      "3rd: Orange County Regional",
+      "4th & 6th: JPL Finals"
+    ],
+    "source": "Packet p. 13"
+  },
+  {
+    "slug": "sticky-wicket",
+    "name": "Sticky Wicket",
+    "year": "2022",
+    "category": "JPL",
+    "status": "Completed competition",
+    "summary": "JPL Invention Challenge finals appearance.",
+    "results": [
+      "8th: JPL Finals"
+    ],
+    "source": "Packet p. 13"
+  },
+  {
+    "slug": "ping-pong-ball-run",
+    "name": "Ping Pong Ball Run",
+    "year": "2019",
+    "category": "JPL",
+    "status": "Completed competition",
+    "summary": "Regional and finals results from the JPL Invention Challenge.",
+    "results": [
+      "6th: Orange County Regional",
+      "3rd: JPL Finals"
+    ],
+    "source": "Packet p. 13"
+  },
+  {
+    "slug": "keep-it-moving",
+    "name": "Keep It Moving",
+    "year": "2014",
+    "category": "JPL",
+    "status": "Completed competition",
+    "summary": "JPL Invention Challenge finals result.",
+    "results": [
+      "4th: JPL Finals"
+    ],
+    "source": "Packet p. 13"
+  },
+  {
+    "slug": "aerial-car-race",
+    "name": "Aerial Car Race",
+    "year": "2008",
+    "category": "JPL",
+    "status": "Completed competition",
+    "summary": "Regional and finals results from the JPL Invention Challenge.",
+    "results": [
+      "2nd: Fullerton Regional",
+      "3rd: JPL Finals"
+    ],
+    "source": "Packet p. 13"
+  },
+  {
+    "slug": "prosthetics",
+    "name": "Prosthetics initiative in Vietnam",
+    "year": null,
+    "category": "Other",
+    "status": "Planned initiative",
+    "summary": "A planned engineering collaboration intended to support communities in Mai Chau, Vietnam.",
+    "source": "Packet p. 14; dates and delivery milestones not supplied"
+  }
+]

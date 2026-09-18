@@ -1,0 +1,12 @@
+{
+ "intro":"Team 867’s mission extends beyond building competition robots. We want the skills our members obtain here to reach younger students, other teams, and communities with less exposure to engineering opportunities.",
+ "mentorship":"Team 867 began mentoring Spartan Circuits 62519, helping younger students gain their first experience with competitive robotics. We also mentor 3 FIRST Lego League teams at First Avenue Middle School, teaching them important software, electrical, and mechanical skills.",
+ "completed":[
+   {"name":"Free coding courses & web development","year":"2020","text":"During 2020, Team 867 members designed and organized the distribution of free courses in professional programming languages such as Python, and Java, as well as a workshop in Web Development. The program reached more than 500 participants, successfully exposing new students to new STEM opportunities."},
+   {"name":"International FIRST outreach","year":"2019","text":"In 2019, Team 867 helped establish one of the first community FRC teams in Jakarta, Indonesia, including student-led workshops and knowledge sharing about robotics, coding, physics, and basic engineering."}
+ ],
+ "prosthetics":"Team members have also worked on a prosthetics-focused engineering initiative intended to support underserved communities in Mai Chau, Vietnam. Partnering with the Vietnamese Culture Club, Arcadia Applied Engineering Team, and VEX Robotics 8737 Teams, this multi-dimensional engineering team project is planning to start a yearly initiative at Arcadia, helping out the community in rural Vietnam. We intend to design, prototype, refine, and manufacture all prosthetic components, then ship them to overlooked members of the community in Vietnam.",
+ "plans":["Engineering workshops at nearby schools","Middle-school STEM activities","Robot demonstrations","Collaborations with other FIRST teams","More consistent educational content on social media"],
+ "goal":"Our goal is not only to build engineers within Team 867, but also beyond it.",
+ "source":"Packet p. 14"
+}
