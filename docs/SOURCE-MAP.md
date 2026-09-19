@@ -63,3 +63,8 @@ DotGothic16 is self-hosted from Google Fonts for short labels and the homepage's
 ## Editorial changes
 
 Only obvious spelling, punctuation, capitalization, artificial letter spacing, hyphenation, and repeated text layers were normalized. Examples: “robot.Our” → “robot. Our”; “camerastogether” → “cameras together”; “resevoir” → “reservoir”; “main accomplish” → “main accomplishment”; “Developement” → “Development.” Repeated passages are deduplicated. Short project summaries and functional headings describe documented content; the detailed prose preserves source wording. Original incomplete text and suggested fixes are recorded in `CONTENT-REVIEW.md` instead of being silently completed.
+
+## Homepage JPL win feature
+- December 2025 first-place student-team result and 6.45-second run: NASA, https://www.nasa.gov/centers-and-facilities/jpl/invention-challenge-brings-student-engineers-to-nasa-jpl/
+- Photo matching the user attachment: https://www.nasa.gov/wp-content/uploads/2025/12/e1-ic.jpg, saved as dist/assets/still-water-jpl-2025.jpg; credited NASA/JPL-Caltech. Full image proportions preserved.
+

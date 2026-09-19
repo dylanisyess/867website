@@ -75,11 +75,14 @@
   },
   {
     "slug": "still-water",
-    "name": "Still Water · Bucket Brigade",
+    "name": "JPL Invention Challenge 1st Place",
     "year": "2025",
     "category": "JPL",
     "status": "Completed project · December 2025",
-    "summary": "An Archimedes screw moves water in the Bucket Brigade challenge.",
+    "summary": "Still Water's first-place Bucket Brigade device uses an Archimedes screw to move water.",
+    "image": "still-water-jpl-2025.jpg",
+    "alt": "Team Still Water with their trophy and Bucket Brigade device at JPL.",
+    "caption": "Team Still Water at the December 2025 JPL Invention Challenge. Photo: NASA/JPL-Caltech.",
     "challenge": [
       "This year, the JPL Invention Challenge was to move 8 liters of water from a reservoir into a bucket 16 feet away as fast as possible while satisfying many rules, such as no pumps allowed or no more than 2 liters of water can be travelling upwards at a single time."
     ],
