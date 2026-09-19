@@ -30,6 +30,8 @@ All team content is in the `content` folder. These are ordinary JSON text files.
 | Replace the packet | `dist/downloads/absolute-value-867-sponsorship.pdf` | Replace the PDF using the same filename. Update the cover thumbnail in `dist/assets/packet-cover.png` and the stated page count/file size in `scripts/build.mjs` if changed. |
 | Team contact and main prose | `content/team.json` | Update the email, Instagram URL, school information, and approved source copy. |
 | Outreach | `content/outreach.json` | Keep completed activities dated; keep planned work separate. |
+| Link preview card (shown when the site address is shared) | `dist/assets/og-image.png` | Replace with another 1200×630 PNG, or rebuild it from the logo with `python scripts/prepare-og-image.py` (development only; needs Pillow). The page metadata points at this one file. |
+| Site address used in previews and canonical links | `content/team.json` → `url` | Set the address the site is published at, with no trailing path. Every page rebuilds its `og:url`, canonical link, and preview image address from it. |
 
 Keep a copy of the original images outside the public assets folder. Prefer originals at least 1200px wide for wide photographs. Never use a screenshot as a replacement for editable body text. Photographs without confirmed dates should stay undated.
 
@@ -59,5 +61,11 @@ Review [the content checklist](docs/CONTENT-REVIEW.md) before publication. [The 
 The root `vercel.json` configures this as a static site: Framework Preset **Other**, Build Command **npm run build**, and Output Directory **dist**. Commit and push this file with the site to the connected GitHub branch so the next deployment uses it. These file-based settings override the corresponding Vercel project settings.
 
 If a deployment reports “No Output Directory named public found,” the build has succeeded but Vercel is looking in the wrong folder. Deploy a commit containing `vercel.json`, or set the project's Output Directory to **dist** in Vercel and redeploy. Keep `dist/assets` and `dist/downloads` tracked; the build generates page HTML alongside those authored assets.
+
+### Link previews
+
+Messages, Slack, Discord, Facebook, and X read the Open Graph tags in each page head. Every page carries a title, description, canonical address, and the shared preview card at `dist/assets/og-image.png` (1200×630, the team logo beside the team name). The addresses are absolute and come from `url` in `content/team.json`, so that value must match the published address or previews will point at the wrong host.
+
+These services cache what they fetched the first time a link was shared. After deploying a change to the card, re-scrape the address to refresh it: the [Facebook sharing debugger](https://developers.facebook.com/tools/debug/) and [X card validator](https://cards-dev.twitter.com/validator) both re-fetch on request. Apple Messages and some chat apps only refresh after their own cache expires.
 
 The static `dist` folder can also be packaged for Sites hosting if requested. Only the contents of `dist` are public website output; `.tools`, `tmp`, and source-reference folders are not part of the deployed site. Current sponsor information and corrected packet text can be added before launch. No analytics, donation links, contact forms, or external accounts have been added.
