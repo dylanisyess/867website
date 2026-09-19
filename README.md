@@ -54,4 +54,10 @@ Review [the content checklist](docs/CONTENT-REVIEW.md) before publication. [The 
 
 ## Publication
 
-This delivery is a local preview. When publication is requested, the static `dist` folder is ready to package for Sites hosting. Do not deploy the `.tools`, `tmp`, or source-reference folders. Current sponsor information and corrected packet text can be added before launch. No analytics, donation links, contact forms, or external accounts have been added.
+### Vercel
+
+The root `vercel.json` configures this as a static site: Framework Preset **Other**, Build Command **npm run build**, and Output Directory **dist**. Commit and push this file with the site to the connected GitHub branch so the next deployment uses it. These file-based settings override the corresponding Vercel project settings.
+
+If a deployment reports “No Output Directory named public found,” the build has succeeded but Vercel is looking in the wrong folder. Deploy a commit containing `vercel.json`, or set the project's Output Directory to **dist** in Vercel and redeploy. Keep `dist/assets` and `dist/downloads` tracked; the build generates page HTML alongside those authored assets.
+
+The static `dist` folder can also be packaged for Sites hosting if requested. Only the contents of `dist` are public website output; `.tools`, `tmp`, and source-reference folders are not part of the deployed site. Current sponsor information and corrected packet text can be added before launch. No analytics, donation links, contact forms, or external accounts have been added.
