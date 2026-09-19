@@ -15,6 +15,7 @@ Wix's About Us navigation points to the home page/section, not a separate About 
 | Major section / route | Primary source | Content file / treatment |
 | --- | --- | --- |
 | Home introduction and philosophy | Packet pp. 3–4 | `content/team.json`; complete short excerpts |
+| Homepage About Us, below the three quick links | Packet p. 3 | `content/team.json`: first two `about` paragraphs, shared with Our Team |
 | Homepage programs | Packet p. 10; user program-name clarification | `team.json`; combined JPL Invention Challenge / Wonderworks title |
 | Homepage featured robot | Wix Over the Years, January–April 2026 | `projects.json`; Biocore / Limelight alignment |
 | Our Team | Packet pp. 3–4, 8 | `team.json`; 10 returning members correction |
@@ -52,6 +53,12 @@ Images are optimized WebP copies, never generated representations of the team. S
 | `frc-render` | Wix Home, `473aab_0741bf2f03ff4058b73ef7ed6d77e442~mv2.png`, original filename `FRC 2026 v1.png` |
 
 Unused downloaded screenshot-based images remain research material and are not presented as identified project photographs. CSS graph lines are simple functional geometry. The packet cover is a download thumbnail; body copy remains selectable HTML text.
+
+## Pixel and pastel styling update
+
+The original packet's stars (p. 1), wrench (p. 5), blue gear (p. 9), trophy (p. 10), people and handshake (p. 15), envelope (p. 17), and flowers (p. 7) supply decorative icons. The stacked pixel 867 graphic is a clean crop from the cover. These are extracted original assets, not generated artwork. `docs/brand-assets.json` records the PDF image identifiers and source pages; `scripts/prepare-brand-assets.py` reproduces the extraction.
+
+DotGothic16 is self-hosted from Google Fonts for short labels and the homepage's 867 only. Its SIL Open Font License is included at `dist/assets/fonts/DotGothic16-OFL.txt`. Main headings, navigation, and body copy retain the readable sans-serif. Styles for these accents are in `dist/assets/packet-theme.css`. The Spring and Fall program bars are removed, and their labels are exactly SPRING and FALL, per user instruction.
 
 ## Editorial changes
 

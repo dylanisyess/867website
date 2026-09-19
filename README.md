@@ -39,6 +39,8 @@ Keep a copy of the original images outside the public assets folder. Prefer orig
 
 The navigation covers Our Team, Team Leads, FRC Robots, JPL & Other Projects, Outreach, Schedule & Join, Over the Years, Gallery, Sponsor Us, and Contact, plus individual project pages.
 
+The added packet-inspired visual styling lives in `dist/assets/packet-theme.css`. Original packet artwork is named `pixel-*` in `dist/assets`; its provenance is recorded in `docs/brand-assets.json`. The locally hosted DotGothic16 font is intentionally limited to short labels and the homepage number. Keep body text and main navigation in the regular sans-serif.
+
 ## Check changes
 
 ```sh

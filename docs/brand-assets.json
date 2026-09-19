@@ -1,0 +1,63 @@
+{
+  "icons": {
+    "pixel-star-yellow": {
+      "pdfImageId": 46,
+      "packetPage": 1
+    },
+    "pixel-star-purple": {
+      "pdfImageId": 50,
+      "packetPage": 1
+    },
+    "pixel-wrench": {
+      "pdfImageId": 151,
+      "packetPage": 5
+    },
+    "pixel-bolt": {
+      "pdfImageId": 1946,
+      "packetPage": 5
+    },
+    "pixel-flowers": {
+      "pdfImageId": 2056,
+      "packetPage": 7
+    },
+    "pixel-gear": {
+      "pdfImageId": 4023,
+      "packetPage": 9
+    },
+    "pixel-trophy": {
+      "pdfImageId": 2380,
+      "packetPage": 10
+    },
+    "pixel-people": {
+      "pdfImageId": 540,
+      "packetPage": 15
+    },
+    "pixel-handshake": {
+      "pdfImageId": 3078,
+      "packetPage": 15
+    },
+    "pixel-chain": {
+      "pdfImageId": 3231,
+      "packetPage": 16
+    },
+    "pixel-envelope": {
+      "pdfImageId": 620,
+      "packetPage": 17
+    }
+  },
+  "pixel867": {
+    "packetPage": 1,
+    "clip": [
+      37,
+      42,
+      186,
+      746
+    ]
+  },
+  "font": {
+    "family": "DotGothic16",
+    "source": "https://fonts.googleapis.com/css2?family=DotGothic16&display=swap&text=%20%21%22%23%24%25%26%27%28%29%2A%2B%2C-./0123456789%3A%3B%3C%3D%3E%3F%40ABCDEFGHIJKLMNOPQRSTUVWXYZ%5B%5C%5D%5E_%60abcdefghijklmnopqrstuvwxyz%7B%7C%7D~%E2%80%93%E2%80%94%C2%B7%E2%86%92",
+    "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/dotgothic16/OFL.txt",
+    "file": "dotgothic16-latin.ttf"
+  }
+}

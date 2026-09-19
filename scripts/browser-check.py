@@ -15,15 +15,15 @@ with sync_playwright() as pw:
         for route in routes:
             response=page.goto(base+route)
             assert response.status==200,(route,response.status)
-            page.wait_for_load_state('networkidle')
+            page.evaluate('document.fonts.ready')
             overflow=page.evaluate('document.documentElement.scrollWidth > innerWidth')
             assert not overflow,('overflow',width,route)
-            broken=page.locator('img[src]').evaluate_all('(imgs)=>imgs.filter(i=>!i.complete||i.naturalWidth===0).map(i=>i.src)')
-            # Lazy images load after scrolling through the document.
-            for image in page.locator('img[src]').all():
-                image.scroll_into_view_if_needed()
+            # Also verify assets used only at other responsive widths. Hidden
+            # decorative images cannot be scrolled into view to trigger lazy load.
+            page.locator('img[src]').evaluate_all('(imgs)=>imgs.forEach(i=>i.loading="eager")')
             page.wait_for_function('Array.from(document.images).filter(i=>i.hasAttribute("src")).every(i=>i.complete&&i.naturalWidth>0)')
         checks.append(f'{len(routes)} routes: {width}px, no overflow or broken images')
+        print(checks[-1],flush=True)
         for route,name in [('/','home'),('/sponsor/','sponsor'),('/team-leads/','leads'),('/join/','join'),('/gallery/','gallery')]:
             page.goto(base+route)
             page.locator('img[src]').evaluate_all('(imgs)=>imgs.forEach(i=>i.loading="eager")')
