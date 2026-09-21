@@ -29,6 +29,7 @@ All team content is in the `content` folder. These are ordinary JSON text files.
 | Sponsorship benefits | `content/sponsors.json` → `tiers` | Edit only approved benefits and inheritance. Costs under `costs` are program estimates, not tier prices. |
 | Replace the packet | `dist/downloads/absolute-value-867-sponsorship.pdf` | Replace the PDF using the same filename. Update the cover thumbnail in `dist/assets/packet-cover.png` and the stated page count/file size in `scripts/build.mjs` if changed. |
 | Team contact and main prose | `content/team.json` | Update the email, Instagram URL, school information, and approved source copy. |
+| “867 by the numbers” on Our Team | `content/stats.json` | Edit `value` and `label` for each published figure, and keep `note` naming the packet page the figures come from. The tiles re-flow automatically. |
 | Outreach | `content/outreach.json` | Keep completed activities dated; keep planned work separate. |
 | Link preview card (shown when the site address is shared) | `dist/assets/og-image.png` | Replace with another 1200×630 PNG, or rebuild it from the logo with `python scripts/prepare-og-image.py` (development only; needs Pillow). The page metadata points at this one file. |
 | Site address used in previews and canonical links | `content/team.json` → `url` | Set the address the site is published at, with no trailing path. Every page rebuilds its `og:url`, canonical link, and preview image address from it. |

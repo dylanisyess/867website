@@ -1,0 +1,15 @@
+{
+ "items":[
+  {"value":"22+","label":"years of Team 867"},
+  {"value":"~38","label":"students each season"},
+  {"value":"70%+","label":"of our team is new each year"},
+  {"value":"10","label":"typical returning members each year"},
+  {"value":"2","label":"major competition programs each year"},
+  {"value":"3","label":"JPL engineering teams each fall"},
+  {"value":"6","label":"competitions & events over the last two years"},
+  {"value":"2,200+","label":"workshop hours from members, past 2 FRC seasons"},
+  {"value":"500+","label":"students reached through our 2020 coding programs"}
+ ],
+ "note":"Figures published on page 12 of our 2026–2027 sponsorship packet.",
+ "source":"Packet p. 12; returning-member count follows p. 12 rather than the p. 8 figure"
+}

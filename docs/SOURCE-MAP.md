@@ -1,6 +1,8 @@
 # Source map
 
-Primary source: `C:\Users\dylan\Downloads\EDD Sponsorship Packet (1).pdf`, 17 pages, cover season 2026–2027. All 17 rendered pages were inspected alongside text extraction. The verbatim extraction in `sources/packet-extracted.txt` is archival evidence and includes decorative duplicates; it is never rendered on the site.
+Primary source: `C:\Users\dylan\Downloads\Arcadia EDD Absolute Value 867 Sponsorship Packet 26-27.pdf` (the finished 2026–2027 packet, supplied 2026-09-20), 17 pages, cover season 2026–2027. All 17 rendered pages were inspected alongside text extraction. The verbatim extraction in `sources/packet-extracted.txt` is archival evidence and includes decorative duplicates; it is never rendered on the site. Regenerate it from the published copy with `python -m pymupdf gettext -mode layout`.
+
+Against the packet this replaces, the finished packet changes the printed website from the retired Weebly address to `www.867arcadiaedd.com`, renames contents entry 04 to “meet the team”, and renumbers the closing sections (our partners 16, sponsorship tier benefits 17, contact us 18). Body copy, figures, costs, tiers, supporter list, and photographs are unchanged; five portraits and decorative panels were re-exported without any change to what they show. Contents entry “15. ww” points at a page the PDF does not contain.
 
 Secondary sources inspected:
 
@@ -19,6 +21,7 @@ Wix's About Us navigation points to the home page/section, not a separate About 
 | Homepage programs | Packet p. 10; user program-name clarification | `team.json`; combined JPL Invention Challenge / Wonderworks title |
 | Homepage featured robot | Wix Over the Years, January–April 2026 | `projects.json`; Biocore / Limelight alignment |
 | Our Team | Packet pp. 3–4, 8 | `team.json`; 10 returning members correction |
+| 867 by the numbers, on Our Team | Packet p. 12 | `stats.json`; published figures only, returning members from p. 12 rather than the different p. 8 figure |
 | Team Leads | Packet pp. 5–7; supplied brief | `leaders.json`; 2026–2027 roster, Tiger Hou correction, only supplied personal bio |
 | Team departments | Packet pp. 5–7 | `departments.json`; department copy is not invented personal biography |
 | FRC overview | Packet p. 10 | `team.json`; complete paragraphs |
@@ -36,7 +39,7 @@ Wix's About Us navigation points to the home page/section, not a separate About 
 | Previous supporters | Packet p. 15 | `sponsors.json`; no current sponsorship claim |
 | Current sponsors | User instruction to keep blank | `sponsors.json`; empty state |
 | Contact | User brief; packet p. 17; Wix footer | `team.json`; exact email and Instagram handle |
-| Download | Supplied updated packet | Unedited copy at `dist/downloads/absolute-value-867-sponsorship.pdf` |
+| Download | Finished packet supplied 2026-09-20 | Unedited copy at `dist/downloads/absolute-value-867-sponsorship.pdf`; stated size updated to 13.4 MB |
 
 ## Asset provenance
 

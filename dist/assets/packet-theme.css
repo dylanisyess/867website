@@ -52,3 +52,13 @@ main{background:#fff}
 body,main,.site-header,.site-footer,.quiet-section,.hero,.page-banner{background-image:url('/assets/grid.svg');background-size:32px 32px}
 @media(max-width:1000px){.about-home{gap:36px;grid-template-columns:minmax(0,1fr) 150px}.quicklinks{gap:18px}.quicklink-label{gap:9px;font-size:16px!important}.quicklink-label .packet-icon{width:25px;height:30px}.quicklinks a:nth-child(3) .packet-icon{width:34px}}
 @media(max-width:700px){.hero-photo:before{right:-5px;top:-20px;width:35px;height:49px}.hero-photo:after{left:-8px}.quicklinks{gap:0}.quicklink-label .packet-icon{width:30px;height:32px}.quicklinks a:nth-child(3) .packet-icon{width:40px}.quicklink-label{gap:14px}.about-home{display:block;position:relative}.about-home h2{padding-right:60px}.about-art{position:absolute;right:0;top:29px;min-height:0;width:46px;height:49px;background:none}.about-art .pixel-867,.about-star-two{display:none}.about-art .about-star-one{position:static;width:35px;height:48px}.season-label{margin-bottom:14px}.banner-layout{display:block;position:relative}.breadcrumb{padding-right:55px}.banner-art{position:absolute;right:0;top:0;width:42px;height:42px}.banner-main{position:static;width:40px;height:40px}.banner-art:before,.banner-star,.banner-small-star{display:none}.footer-team{padding-right:70px}.footer-flowers{right:14px}.icon-heading{gap:12px}.icon-heading .packet-icon{width:28px;height:36px}.outreach-line .packet-icon{width:62px;height:34px}}
+/* 867 by the numbers, packet p. 12; pastel tiles cycle through the packet palette. */
+.stats{list-style:none;padding:0;margin:24px 0 0;display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.stats li{margin:0;padding:18px 16px 20px;background:var(--pastel-blue);border-top:4px solid var(--blue);display:flex;flex-direction:column;gap:9px}
+.stats li:nth-child(3n+2){background:var(--pastel-yellow);border-top-color:var(--yellow)}
+.stats li:nth-child(3n+3){background:var(--pastel-pink);border-top-color:var(--pink)}
+.stat-value{font-size:2.2rem;line-height:1;color:var(--indigo)}
+.stat-label{font-size:.9375rem;line-height:1.45;color:#4e5260}
+@media(max-width:1000px){.stats{gap:14px}.stat-value{font-size:1.9rem}}
+@media(max-width:700px){.stats{grid-template-columns:1fr 1fr}}
+@media(max-width:370px){.stats{grid-template-columns:1fr}}
