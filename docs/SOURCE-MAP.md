@@ -71,3 +71,9 @@ Only obvious spelling, punctuation, capitalization, artificial letter spacing, h
 - December 2025 first-place student-team result and 6.45-second run: NASA, https://www.nasa.gov/centers-and-facilities/jpl/invention-challenge-brings-student-engineers-to-nasa-jpl/
 - Photo matching the user attachment: https://www.nasa.gov/wp-content/uploads/2025/12/e1-ic.jpg, saved as dist/assets/still-water-jpl-2025.jpg; credited NASA/JPL-Caltech. Full image proportions preserved.
 
+
+## Updated downloadable sponsorship packet
+- Source: Arcadia EDD Absolute Value 867 Sponsorship Packet 26-27.pdf, supplied by the user on September 22, 2026.
+- PDF page 16 (printed page 17): Wood $100+, Brick $300+, Steel $600+, Carbon Fiber $1,000+. Existing tier benefits and inheritance retained.
+- Download replaced byte-for-byte at dist/downloads/absolute-value-867-sponsorship.pdf; cover thumbnail refreshed from page 1. 17 pages, 5,070,323 bytes.
+

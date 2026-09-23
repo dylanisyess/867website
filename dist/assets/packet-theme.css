@@ -62,3 +62,9 @@ body,main,.site-header,.site-footer,.quiet-section,.hero,.page-banner{background
 @media(max-width:1000px){.stats{gap:14px}.stat-value{font-size:1.9rem}}
 @media(max-width:700px){.stats{grid-template-columns:1fr 1fr}}
 @media(max-width:370px){.stats{grid-template-columns:1fr}}
+.sponsor-banner{padding:24px 0 16px}
+.sponsor-banner .banner-copy{text-align:left}
+.sponsor-banner .breadcrumb{text-align:left;padding-right:55px;margin-bottom:14px}
+.sponsor-banner p{margin-inline:0}
+.sponsor-banner+.page-content{padding-top:24px}
+.tier-amount{font-size:1.65rem;font-weight:700;line-height:1.2;color:var(--indigo);margin-bottom:18px}
